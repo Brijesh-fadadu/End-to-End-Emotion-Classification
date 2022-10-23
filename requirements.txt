@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+plotly
+altair
+nltk
+spacy
